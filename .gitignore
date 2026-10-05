@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+
+# 实验结果（运行生成，不入库）
+results/
+
+# 虚拟环境
+venv/
+.venv/
+
+# 系统文件
+.DS_Store
